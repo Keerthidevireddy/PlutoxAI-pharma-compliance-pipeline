@@ -631,4 +631,4 @@ For questions or support, please open an issue on GitHub.
 
 ---
 
-**Built with ❤️ using Claude Opus 4.7 and modern Python best practices.**
+
